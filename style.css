@@ -1,0 +1,70 @@
+:root {
+  /* Text-size styles */
+--display-2xl---bold: 4.5rem;
+--display-2xl---semibold: 4.5rem;
+--display-2xl---medium: 4.5rem;
+--display-2xl---regular: 4.5rem;
+
+--display-xl---bold: 3.75rem;
+--display-xl---semibold: 3.75rem;
+--display-xl---medium: 3.75rem;
+--display-xl---regular: 3.75rem;
+
+--display-lg---bold: 3rem;
+--display-lg---semibold: 3rem;
+--display-lg---medium: 3rem;
+--display-lg---regular: 3rem;
+
+--display-md---bold: 2.25rem;
+--display-md---semibold: 2.25rem;
+--display-md---medium: 2.25rem;
+--display-md---regular: 2.25rem;
+
+--display-sm---bold: 1.875rem;
+--display-sm---semibold: 1.875rem;
+--display-sm---medium: 1.875rem;
+--display-sm---regular: 1.875rem;
+
+--display-xs---bold: 1.5rem;
+--display-xs---semibold: 1.5rem;
+--display-xs---medium: 1.5rem;
+--display-xs---regular: 1.5rem;
+
+--text-xl---bold: 1.25rem;
+--text-xl---semibold: 1.25rem;
+--text-xl---medium: 1.25rem;
+--text-xl---regular: 1.25rem;
+
+--text-lg---bold: 1.125rem;
+--text-lg---semibold: 1.125rem;
+--text-lg---medium: 1.125rem;
+--text-lg---regular: 1.125rem;
+
+--text-md---bold: 1rem;
+--text-md---semibold: 1rem;
+--text-md---medium: 1rem;
+--text-md---regular: 1rem;
+
+--text-sm---bold: .875rem;
+--text-sm---semibold: .875rem;
+--text-sm---medium: .875rem;
+--text-sm---regular: .875rem;
+
+--text-xs---bold: .75rem;
+--text-xs---semibold: .75rem;
+--text-xs---medium: .75rem;
+--text-xs---regular: .75rem;
+
+/* Shadow styles */
+--shadow--shadow-xs:  0rem .0625rem .125rem rgba(16, 24, 40, 0.05);
+--shadow--shadow-sm:  0rem .0625rem .125rem rgba(16, 24, 40, 0.06), 0rem .0625rem .1875rem rgba(16, 24, 40, 0.1);
+--shadow--shadows-md:  0rem .125rem .25rem rgba(16, 24, 40, 0.06), 0rem .25rem .5rem rgba(16, 24, 40, 0.1);
+--shadow--shadows-lg:  0rem .75rem 1rem rgba(16, 24, 40, 0.08), 0rem .25rem .375rem rgba(16, 24, 40, 0.03);
+--shadow--shadow-xl:  0rem .5rem .5rem rgba(16, 24, 40, 0.03), 0rem 1.25rem 1.5rem rgba(16, 24, 40, 0.08);
+
+/* Focus State */
+--focus--ring--ring-brand:  0rem 0rem 0rem rgba(11, 165, 236, 0.24);
+--focus--ring--ring-grey:  0rem 0rem 0rem rgba(152, 162, 179, 0.14);
+--focus--ring--ring-gray-secondary:  0rem 0rem 0rem rgba(152, 162, 179, 0.2);
+--focus--ring--ring-danger:  0rem 0rem 0rem rgba(240, 68, 56, 0.5);
+}
